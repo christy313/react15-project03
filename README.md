@@ -6,6 +6,8 @@
 
 - Click the "Surprise Me" button to get a random review
 
+[Live Demo](https://christy313.github.io/react15-project03/)
+
 ![](./public/03-reviews.gif)
 
 ## File structure
